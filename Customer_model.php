@@ -388,7 +388,7 @@ public function generateRandomString($n) {
 
 				$dataArray =array(
 							'upload_id' =>$imgUpload,
-							// 'customer_aadhaar'=>$this->session->userdata('cust_aadhaar'),
+							'customer_aadhaar'=>$this->session->userdata('cust_aadhaar'),
 							'upload_type'=>$this->input->post('types'),
 							'date'=>date('Y-m-d'),
 							'added_by'=>'customer',
@@ -454,7 +454,7 @@ public function generateRandomString($n) {
     		$qty=$this->input->post('qty');
     		$data = array(
               'future_id'=>$future,
-              'customer_aadhaar'=>$this->session->userdata('customer_aadhaar'),
+              'customer_aadhaar'=>$this->session->userdata('cust_aadhaar'),
               'year'=>$this->input->post('year'),
               'month'=>$this->input->post('month'),
               'date'=>date('Y-m-d')
