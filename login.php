@@ -9,6 +9,9 @@
    .tx-danger{
     color: red;
    }
+   #login{
+    font-size: 18px;
+   }
  </style>
  <!-- ======= Hero Section ======= -->
   <!-- <section id="hero">
@@ -64,7 +67,7 @@
     </div>
   </section> -->
 
-  <main id="main" style="background-color: #fbfbfb; padding-left:500px; padding-right:500px">
+  <main id="main" style="background-color: #fbfbfb; padding-left:510px; padding-right:510px; padding-bottom:120px; padding-top:80px">
 
    
 
@@ -81,11 +84,11 @@
       <div class="container">
 
         <div class="section-title" style="margin-bottom: -15px !important">
-          <h2>Login</h2>
+          <h2 id="login">Login</h2>
           <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
-        <div class="row"  >
+        <div class="row">
 
       <!--     <div class="col-lg-5 d-flex align-items-stretch">
             <div class="info">
@@ -133,11 +136,11 @@
               <br>
               <br>
               <br>
-              <div class="text-center" id="btn"><button type="submit"  >Login</button></div>
+              <div class="text-center" id="btn"><button type="submit">Login</button></div>
               </div>
               </div>
             </div>
-              <!-- <div class="row" >
+              <!-- <div class="row">
               
               <div class="form-group col-md-12 mt-3" align="center">
                 <label for="name">Aadhaar Number</label>
