@@ -64,7 +64,7 @@
     </div>
   </section> -->
 
-  <main id="main" style="background-color: #fbfbfb">
+  <main id="main" style="background-color: #fbfbfb; padding-left:500px; padding-right:500px">
 
    
 
@@ -118,14 +118,14 @@
             <form action="<?php echo base_url('login-customer')?>" id="loginForm" method="post"  class="php-email-form">
               <div class="row">
               <div class="col-lg-4">
-               <img src="<?php echo base_url()?>webassest/img/sapling.jpeg" alt="">
+               <img src="<?php echo base_url()?>webassest/img/sapling.jpeg" alt="" style="width: 120px">
               </div>
                <div class="col-lg-7" >
-                <div class="row" style="padding-top: 80px">
+                <div class="row" style="padding-top: 25px">
               
               <div class="form-group col-md-12 mt-3" align="center">
-                <label for="name">Aadhaar Number<span class="tx-danger">*</span></label>
-                <input type="text" class="form-control" class="form-control" minlength="12" maxlength="12" name="adhaar" id="adhaar" onkeypress="return onlyNumberKey(event)"  required>
+                <label for="name" style="font-size: 15px">Aadhaar Number<span class="tx-danger">*</span></label>
+                <input type="text" class="form-control" class="form-control" minlength="12" maxlength="12" name="adhaar" id="adhaar" onkeypress="return onlyNumberKey(event)" style="width: 120px" required>
                 <!-- added number validation to adhaar input field on 03-04-2023  -->
                           <!-- <p id="adhaar_result"></p> -->
               </div>
@@ -133,7 +133,7 @@
               <br>
               <br>
               <br>
-              <div class="text-center"><button type="submit">Login</button></div>
+              <div class="text-center" id="btn"><button type="submit"  >Login</button></div>
               </div>
               </div>
             </div>
