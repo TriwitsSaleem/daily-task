@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T07:13:55.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uJ9nUGSMGO9J_25CVanA" version="21.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-10T07:16:21.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jx2SpwJ9I9LD9HoNShbS" version="21.1.5" type="github" pages="6">
   <diagram name="Welcome page" id="wzk7bqDdGtJB6rvD9kmu">
     <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,10 +84,10 @@
         <mxCell id="bE_wQTbWtQRpLGGpvONF-19" value="Submit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="410" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bE_wQTbWtQRpLGGpvONF-20" value="Already have an account? &lt;font color=&quot;#ff8000&quot;&gt;Sign_in&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+        <mxCell id="bE_wQTbWtQRpLGGpvONF-20" value="Already have an account? &lt;font color=&quot;#ff8000&quot;&gt;Sign_in&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="197.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bE_wQTbWtQRpLGGpvONF-21" value="By creating an account or logging in, you agree to&amp;nbsp; &lt;font color=&quot;#0000ff&quot;&gt;Conditions of use&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: &amp;quot;Amazon Ember&amp;quot;, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;and &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Amazon Ember&amp;quot;, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;Privacy_Policy&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+        <mxCell id="bE_wQTbWtQRpLGGpvONF-21" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;By creating an account or logging in, you agree to&amp;nbsp; &lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#0000ff&quot;&gt;Conditions of use&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: &amp;quot;Amazon Ember&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;and &lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;Privacy_Policy&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="316.25" y="470" width="223.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bE_wQTbWtQRpLGGpvONF-24" value="footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
