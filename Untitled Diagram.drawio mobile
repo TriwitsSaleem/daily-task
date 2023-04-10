@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T10:17:10.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VfXJ3oOLOumnLwRaa9Qx" version="21.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-10T10:26:44.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9f94kccqomyxMTcrKxff" version="21.1.5" type="github" pages="2">
   <diagram name="Page-1" id="yzFxJU_t2m2PTc9fP2jr">
     <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,38 +246,77 @@
         <mxCell id="2UMn3uak4VqzVue2EJ96-8" value="Logo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="125" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-9" value="Bag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="125" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="2UMn3uak4VqzVue2EJ96-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="150" width="120" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-11" value="Nursery" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="175" width="70" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-20" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="127.5" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-12" value="Upload" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="205" width="70" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-21" value="Account settings&lt;br&gt;Sign out" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="235" y="160" width="105" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-13" value="Future Demand" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="235" width="90" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="145" as="sourcePoint" />
+            <mxPoint x="260" y="165" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-14" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Beneficiaries&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="265" width="90" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-23" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="167.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-15" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Benifits&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="295" width="90" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-24" value="Variety&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="190" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-16" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;My Orders&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="320" width="90" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-25" value="BagSize" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-17" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;My Profile&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="350" width="90" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-26" value="Samplings" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-18" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Account settings&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="125" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-27" value="Nursery" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UMn3uak4VqzVue2EJ96-19" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Sign out&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="45" y="410" width="90" height="30" as="geometry" />
+        <mxCell id="2UMn3uak4VqzVue2EJ96-28" value="Stock" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-29" value="Order" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-30" value="Payments" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-31" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Individual Saplings&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-32" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Accounts&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-33" value="Add&amp;nbsp;&lt;br&gt;View" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="217.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2UMn3uak4VqzVue2EJ96-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="227.5" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-36" value="Add&amp;nbsp;&lt;br&gt;View" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="295" as="sourcePoint" />
+            <mxPoint x="340" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-38" value="Add&amp;nbsp;&lt;br&gt;View&lt;br&gt;View Overall stock&lt;br&gt;stock Reservation" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="425" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2UMn3uak4VqzVue2EJ96-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="317.5" as="sourcePoint" />
+            <mxPoint x="420" y="318" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
