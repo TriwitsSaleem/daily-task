@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T10:08:14.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="T7y0daLjMCUXrLILaiZ-" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T10:16:37.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="A47iSIyFegZcIQ9hp4aL" version="21.1.5" type="github">
   <diagram name="Page-1" id="yzFxJU_t2m2PTc9fP2jr">
     <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,13 +164,13 @@
           <mxGeometry x="520" y="520" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CQ4VsFG1gvGABtcOZWkO-150" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="540" width="20" height="10" as="geometry" />
+          <mxGeometry x="677.5" y="535" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="CQ4VsFG1gvGABtcOZWkO-151" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="535" width="20" height="10" as="geometry" />
+          <mxGeometry x="677.5" y="530" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="CQ4VsFG1gvGABtcOZWkO-152" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="530" width="20" height="10" as="geometry" />
+          <mxGeometry x="677.5" y="525" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="CQ4VsFG1gvGABtcOZWkO-153" value="footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="880" width="220" height="40" as="geometry" />
@@ -179,25 +179,40 @@
           <mxGeometry x="560" y="480" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CQ4VsFG1gvGABtcOZWkO-155" value="Logo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="555" width="40" height="20" as="geometry" />
+          <mxGeometry x="530" y="525" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CQ4VsFG1gvGABtcOZWkO-156" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="620" width="180" height="200" as="geometry" />
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-165" value="Bag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="525" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CQ4VsFG1gvGABtcOZWkO-157" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;if you not Register? &lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ff8000&quot;&gt;Click here &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;to&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ff8000&quot;&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;register&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="557.5" y="770" width="120" height="20" as="geometry" />
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="550" width="120" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="CQ4VsFG1gvGABtcOZWkO-158" value="&lt;h1 style=&quot;border-color: var(--border-color); box-sizing: border-box; padding: 0px 0px 4px; margin-top: 0px; margin-right: 0px; margin-left: 0px; font-family: &amp;quot;Amazon Ember&amp;quot;, Arial, sans-serif; text-rendering: optimizelegibility; font-weight: 400; line-height: 1.2; color: rgb(17, 17, 17); text-align: start; background-color: rgb(255, 255, 255); margin-bottom: 10px !important;&quot; class=&quot;a-spacing-small&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Sign in&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="550" y="630" width="47.5" height="50" as="geometry" />
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-167" value="Nursery" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="575" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CQ4VsFG1gvGABtcOZWkO-159" value="Aadhar Number" style="rounded=0;whiteSpace=wrap;html=1;align=left;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="680" width="135" height="20" as="geometry" />
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-168" value="Upload" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="605" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CQ4VsFG1gvGABtcOZWkO-160" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="700" width="150" height="20" as="geometry" />
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-169" value="Future Demand" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="635" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CQ4VsFG1gvGABtcOZWkO-161" value="Sign in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="730" width="80" height="20" as="geometry" />
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-170" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Beneficiaries&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="665" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-171" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Benifits&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="695" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-172" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;My Orders&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="720" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-173" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;My Profile&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="750" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-174" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Account settings&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="780" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQ4VsFG1gvGABtcOZWkO-175" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Sign out&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="810" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
