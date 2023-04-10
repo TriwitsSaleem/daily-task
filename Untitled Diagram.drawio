@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T05:41:23.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bidm1TGYzUuAodpHVmVN" version="21.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-10T06:17:57.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lqAGvHX0HYF4f1Wp-mIn" version="21.1.5" type="github" pages="4">
   <diagram name="Welcome page" id="wzk7bqDdGtJB6rvD9kmu">
     <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,6 +130,83 @@
         </mxCell>
         <mxCell id="q10WxDvN4d-YdS1xt4e0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GpOGhaREoFDDmtiglZrZ-1" target="GpOGhaREoFDDmtiglZrZ-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g6czAZuYtdQdao3b2W1N" name="Page-4">
+    <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="770" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-3" value="Logo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-4" value="Nursery" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="65" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-9" value="Upload" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-11" value="1. Nursery 1&lt;br&gt;2. Nursery 2&lt;br&gt;3. Nursery 3&lt;br&gt;4. Nursery 4" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="85" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-10" value="Future Demand" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-12" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="65" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-13" value="Add&amp;nbsp;&lt;br&gt;View" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="85" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-14" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Beneficiaries&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-15" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Benifits&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-16" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Bag&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="65" as="sourcePoint" />
+            <mxPoint x="670" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="75" as="sourcePoint" />
+            <mxPoint x="670" y="75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="69.5" as="sourcePoint" />
+            <mxPoint x="670" y="69.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-23" value="My Orders&lt;br&gt;My profile&lt;br&gt;&lt;br&gt;Settings&lt;br&gt;Change password" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="630" y="85" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-24" value="&lt;ol style=&quot;box-sizing: border-box; display: flex; flex-wrap: wrap; list-style: none; background-color: rgb(250, 250, 250); border-radius: 0.25rem; color: rgb(41, 43, 58); font-family: Montserrat, sans-serif; letter-spacing: 0.3px; text-align: left; margin: 0px !important; padding: 0px !important; align-self: center !important;&quot; class=&quot;breadcrumb bg-transparent align-self-center m-0 p-0&quot;&gt;&lt;li style=&quot;box-sizing: border-box; padding-left: 0.5rem;&quot; class=&quot;breadcrumb-item&quot;&gt;Logout&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kgSWIZrC8CdqwwYTaKU5-25" value="footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="770" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
